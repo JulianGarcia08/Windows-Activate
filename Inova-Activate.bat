@@ -1,10 +1,13 @@
 @echo off
+
 title Inova
 mode 30, 30
 color b
+
 :inicio
+
 echo ==============================
-echo =           Inova            =
+echo =      Inova-Activate        =
 echo ==============================
 echo = 1. Home                    =
 echo = 2. Pro                     =
@@ -13,6 +16,7 @@ echo = 4. Education               =
 echo = 5. Salir                   =
 echo ==============================
 echo.
+
 set /p menu=- 
 
 if "%menu%"=="1" goto op1
