@@ -1,0 +1,1 @@
+Ejecutar el archivo como administrador para que el script funcione correctamente.
