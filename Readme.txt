@@ -1,1 +1,1 @@
-Ejecutar el archivo como administrador para que el script funcione correctamente.
+Run the file as administrator for the script to work correctly.
